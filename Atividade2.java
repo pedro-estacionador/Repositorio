@@ -65,8 +65,8 @@ class Professor extends Pessoa{
 
 public class Atividade2 {
 	public static void main(String[] args) {
-		Aluno aluno = new Aluno("ROgerin pirocão", 17, "UC171724");
-		Professor prof = new Professor("Prof safadão", 34, 1700.17);
+		Aluno aluno = new Aluno("ROgerin", 17, "UC171724");
+		Professor prof = new Professor("Prof sauron", 34, 1700.17);
 		
 		aluno.exibirInfo();
 		prof.exibirInfo();
