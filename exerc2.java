@@ -38,7 +38,7 @@ class Funcionario extends Pessoa{
 
 public class exerc2 {
 	public static void main(String[] args) {
-		Funcionario fun = new Funcionario("Neuralho", 17, 1500,"Garoto de programa");
+		Funcionario fun = new Funcionario("Neuralho", 17, 1500,"Programador");
 	fun.calcularSalarioAnual();
 	fun.exibirFuncionario();
 	
